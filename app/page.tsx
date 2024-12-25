@@ -109,15 +109,14 @@ export default function Page() {
       link: null,
     },
     {
-      title: 'Solana AI Agents\nDeveloper Kit',
+      title: 'Solana Agent Kit',
       category: 'Developer Tools',
       gradient: 'bg-neutral-700',
       image: '/images/illustration3.png',
-      // buttonText: 'View Details',
-      buttonText: 'Coming Soon',
-      disabled: true,
-      // link: 'https://solanaagentkit.xyz',
-      link: null,
+      buttonText: 'View Details',
+      // buttonText: 'Coming Soon',
+      disabled: false,
+      link: 'https://solanaagentkit.xyz',
     },
   ];
 
